@@ -1,0 +1,2 @@
+D:\Win32\Project_Tetris\Debug\Project_Tetris.exe
+D:\Win32\Project_Tetris\Debug\Project_Tetris.pdb
